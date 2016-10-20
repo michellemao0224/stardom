@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_c1c2cb7ed94dfc5a133494f1ee3857c2b0df3060/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_8962996f5530de482cf8f6e1a6311f59238889c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_7f6b3567c2f087e7a0e9c81859e484d52adc660d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c0aa310c92f37843e2b139b2e5cb17d9080382be">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec8b9235464c9ee44c34ae4a2148c35f93cfba1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_23666822886992cbc44662641327111e35b61af5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fa79ccfb395a8c9902de0f5836b61c376c91d2e3">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fbbd6e0a161b4a33fff0838eec83d35fd59de6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_a8d7e2bf19ba7c1cd011137c9b4e7bfa5f2c260f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Miyal/Desktop/Android Demo/Instagram clone/Parse-Starter-Project-1.13.0/Stardom/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_78ece818251338f11e897bf5a179cdaca93ba8bb/classes.dex" />
+    </item>
+
+</items>
